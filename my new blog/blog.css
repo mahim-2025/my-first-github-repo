@@ -1,0 +1,11 @@
+.first{
+    background-color: aqua;
+    border: 5px solid blueviolet;
+    border-radius: 10px; box-shadow: 10px 10px 10px blueviolet; padding: 20px;
+    margin-bottom: 30px;
+}
+.second {
+     background-color: aqua;
+    border: 5px solid blueviolet;
+    border-radius: 10px; box-shadow: 10px 10px 10px rgb(133, 62, 199); padding: 20px;
+}
